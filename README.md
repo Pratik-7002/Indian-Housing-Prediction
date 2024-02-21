@@ -19,16 +19,18 @@ Project Objectives:
 
 The primary goal of this project is to harness the power of data analysis and machine learning algorithms to unearth insights into the intricate relationships between different variables and their impact on house prices in India. To achieve this, I've undertaken the following key objectives:
 
-Exploratory Data Analysis (EDA): Conduct a comprehensive analysis of the dataset to uncover patterns, trends, and correlations among the various attributes.
+***Exploratory Data Analysis (EDA):*** Conduct a comprehensive analysis of the dataset to uncover patterns, trends, and correlations among the various attributes.
 
-Feature Engineering: Implement feature engineering techniques, including the introduction of novel features such as the bedroom-to-area ratio and the bathroom-to-bedroom ratio. This is done to enhance the accuracy of predictive models.
+***Feature Engineering:*** Implement feature engineering techniques, including the introduction of novel features such as the bedroom-to-area ratio and the bathroom-to-bedroom ratio. This is done to enhance the accuracy of predictive models.
 
-Machine Learning Models: Apply both linear regression and Random Forest models to predict housing prices based on the given attributes. The aim is to attain the highest possible accuracy in forecasting house prices.
+***Machine Learning Models:*** Apply both linear regression and Random Forest models to predict housing prices based on the given attributes. The aim is to attain the highest possible accuracy in forecasting house prices.
 
-Insights Generation: Interpret the results of the machine learning models to derive meaningful insights into how different variables influence house prices. This can aid in better understanding the dynamics of the housing market.
+***Insights Generation:*** Interpret the results of the machine learning models to derive meaningful insights into how different variables influence house prices. This can aid in better understanding the dynamics of the housing market.
 
-Key Attributes:
+***Key Attributes:***
 
-Data Source: Kaggle
-Attributes: Varied attributes including area, bedroom count, bathroom count, furnishing status, locality, parking availability, transaction details, property type, and price-related information.
-Feel free to explore the project, delve into the code, and contribute to the continuous improvement of our understanding of Indian housing price dynamics. Your feedback and collaboration are highly valued!
+*Data Source:* Kaggle
+*Attributes:* Varied attributes including area, bedroom count, bathroom count, furnishing status, locality, parking availability, transaction details, property type, and price-related information.
+
+
+***Feel free to explore the project, delve into the code, and contribute to the continuous improvement of our understanding of Indian housing price dynamics. Your feedback and collaboration are highly valued!***
