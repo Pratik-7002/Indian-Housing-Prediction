@@ -1,5 +1,7 @@
 **Indian Housing Price Prediction Project**
 
+
+
 Welcome to my Indian Housing Price Prediction project! In this endeavor, I have utilized a dataset sourced from Kaggle, encompassing various attributes crucial to housing predictions. The dataset comprises the following features:
 
 Area
